@@ -84,11 +84,3 @@
 
 <br/>
 <br/>
-
-
-## :globe_with_meridians: Our community_
-
-***<p align="center"> [<img height="237" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/community-fb.png">](https://www.facebook.com/groups/programmingherocommunity/)[<img height="237" src="https://raw.githubusercontent.com/not-programming-hero/not-programming-hero/main/image/community-yt.png">](https://www.youtube.com/@ProgrammingHeroCommunity) </p>***
-
-<br/>
-<br/>
